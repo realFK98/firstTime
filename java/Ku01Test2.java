@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-
+//Github
 public class Ku01Test2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
